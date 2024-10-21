@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# ExpenditureXpert
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+ExpenditureXpert is an MERN Stack financial management app simplifies daily transactions, offering diverse expense categories for meticulous tracking. With an intuitive interface and multiple themes, users effortlessly visualize expenses. Timely notifications ensure no bill slips through the cracks, aiding savings goals. Social features enable friend addition, group creation, and seamless expense splitting, with reminders for pending dues. Transparent debt management within groups includes an approval system pre-settlement. Interactive charts provide insights into spending patterns on daily, weekly, monthly, and yearly bases. This app amalgamates user convenience, social connectivity, and insightful data representation for efficient personal finance and collaborative expense handling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Seamless Access:** Instant Login/Signup for quick entry.
+2. **Transaction Recording:** Effortlessly log daily expenses.
+3. **Expense Categories:** Categorize spending into food, shopping, and more.
+4. **Visual Reports:** Intuitively visualize expense data for better insights.
+5. **Custom Themes:** Dark Mode and diverse themes for personalized use.
+6. **Bill Notifications:** Timely alerts for recurring bills and due transactions.
+7. **Savings Tracking:** Monitor savings progress towards financial goals.
+8. **Social Connectivity:** Add friends and create groups for shared expenses.
+9. **Expense Splitting:** Easily split expenses within groups or with friends.
+10. **Reminders:** Send reminders for pending dues and transactions.
+11. **Debt Simplification:** Streamline group debts for transparency.
+12. **Transaction Approval:** Seek approval before finalizing transactions.
+13. **Data Visualization:** Analyze expenses through charts for various timeframes.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src='frontend/src/assets/ss1.png' width='100%' height='100%'>
+<img src='frontend/src/assets/ss3.png' width='100%' height='100%'>
+<img src='frontend/src/assets/ss2.png' width='100%' height='100%'>
+<img src='frontend/src/assets/ss4.png' width='100%' height='100%'>
+<img src='frontend/src/assets/ss5.png' width='100%' height='100%'>
+<img src='frontend/src/assets/ss6.png' width='100%' height='100%'>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/Prateek202/Expenditure-Xpert
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
