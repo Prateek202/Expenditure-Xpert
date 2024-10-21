@@ -1,0 +1,40 @@
+.text-color1 {
+  color: #3f51b5;
+}
+
+.text-color3 {
+  color: #333;
+}
+
+.bg-color1 {
+  background-color: #3f51b5;
+}
+
+.bg-color2 {
+  background-color: #3f51b5;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.content {
+  text-align: center;
+}
+
+.btn-get-started {
+  background-color: #3f51b5;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.btn-get-started:hover {
+  background-color: #303f9f;
+}
