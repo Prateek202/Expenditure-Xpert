@@ -38,8 +38,7 @@ ExpenditureXpert is an MERN Stack financial management app simplifies daily tran
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rohan-algorithm/ExpenditureXpert.git
+   git clone https://github.com/Prateek202/Expenditure-Xpert
 
 
-Contact
-If you have any questions or need assistance, feel free to contact us at rohanrao543211@gmail.com.   
+  
